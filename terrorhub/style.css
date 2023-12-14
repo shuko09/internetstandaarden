@@ -55,15 +55,15 @@
 
         nav {
             background-color: black;
-            padding: 10px 0;
+            padding: 0.625em 0;
             text-align: right;
         }
 
         nav a {
             color: #fff;
             text-decoration: none;
-            padding: 10px;
-            margin: 0 10px;
+            padding: 0.625em;
+            margin: 0 0.625em;
             display: inline-block;
         }
 
@@ -90,7 +90,7 @@
             text-align: center;
             border-radius: 5em;
             transition: transform 0.3s;
-            max-width: 300px;
+            max-width: 18.75em;
             display: inline-block;
         }
 
@@ -110,7 +110,7 @@
         .grid-item img {
             max-width: 100%;
             height: auto;
-            border-radius: 5px;
+            border-radius: 0.3125em;
             margin-bottom: 0;
             cursor: pointer;
         }
